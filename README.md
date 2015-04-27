@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/cyjia/ember-table-addon.svg?branch=master)](https://travis-ci.org/cyjia/ember-table-addon)
 # Ember-CLI Addon for Ember Table
 
 This is an Ember-CLI wrapper around [Addepar's Ember Table.](https://github.com/Addepar/ember-table).
